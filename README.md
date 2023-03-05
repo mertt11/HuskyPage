@@ -1,2 +1,2 @@
-# HuskyPage
-I coded a website using HTML and CSS.
+[Live Demo](https://mertt11.github.io/HuskyPage/)
+
